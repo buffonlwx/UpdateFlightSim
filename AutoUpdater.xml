@@ -1,4 +1,4 @@
 <item>
 <version>2.0.0.0</version>
-<url>ftp://192.168.1.102/Release.zip</url>
+<url>http://192.168.1.102:8080/Release.zip</url>
 </item>
